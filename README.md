@@ -10,6 +10,3 @@ The final version of the work developed is specified in the following files:
 
 - main_notebook.ipynb - jupyter notebook, collection of the code progress along with comments and explanations
 - extracted features.CSV - CSV of the combined data (pylidc and pyradiomics, all patients)
-- link_to_video.md - link to YouTube presentation video
-- learningmodelsinhealthcare.pdf- PDF file of written text regarding the ethical and legal implications of learning models in healthcare
-- autoevaluation.xlsx - autoevaluation excel file
